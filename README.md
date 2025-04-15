@@ -1,5 +1,5 @@
 
-# Discord Voice Channel Music Bot
+# Discord VC Music Bot
 
 ## Περιγραφή
 
